@@ -3,9 +3,9 @@ import style from'./AddButton.module.css'
 
 const AddButton = () => {
     return (
-        <div>
-            <p className={style.button}>Ajouter</p>
-        </div>
+        <button className={style.button}>
+            <p >Ajouter</p>
+        </button>
     )
 }
 

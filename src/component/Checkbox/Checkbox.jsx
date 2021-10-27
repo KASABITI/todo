@@ -6,10 +6,8 @@ const Checkbox = () => {
     const [checked, setChecked] = useState(false)
     return (
            <div
-                
-                    className={`${style.checkbox} ${checked ? style.checked : style.unchecked}`}
-                    onClick={() => setChecked(!checked)}>
-                
+             className={`${style.checkbox} ${checked ? style.checked : style.unchecked}`}
+             onClick={() => setChecked(!checked)}>
          </div>
     )
 }

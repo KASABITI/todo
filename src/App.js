@@ -1,9 +1,8 @@
 import './App.css';
-import Header from './component/Header/Header' ;
-import Footer from './component/Footer/Footer';
-import Task from './component/Task/Task';
-// import Button from './component/AddButton/AddButton'
-import AddButton from './component/AddButton/AddButton';
+import Header from './components/Header/Header' ;
+import Footer from './components/Footer/Footer';
+import Task from './components/Task/Task';
+import AddButton from './components/AddButton/AddButton';
 
 function App() {
   return (

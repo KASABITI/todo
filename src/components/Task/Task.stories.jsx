@@ -2,8 +2,8 @@ import Task from './Task'
 
 
 export default{
-   title:'component/Task',
+   title:'components/Task',
    component: Task
 
 }
-export const Normal=()=> <Task/>
+export const Normal = ()=> <Task/>

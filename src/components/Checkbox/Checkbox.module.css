@@ -9,5 +9,7 @@
     background-color: rgb(20, 145, 36);
 }
 
-
-
+.task_border{
+    box-shadow: 0 10px 6px -6px #777;
+    
+}

@@ -1,0 +1,16 @@
+.tasklist{
+    background: rgb(30, 167, 253);
+    color: rgb(255, 255, 255);
+    max-width: 100%;
+    /* margin: 50px; */
+    padding: 10px;
+    font-size: 1.25em;
+    /* display: flex; */
+    border-radius: 5px;
+    text-transform: uppercase;
+    margin: 0 auto;
+    text-align: center;
+   /* justify-content: space-between;
+     align-content: center;
+    align-items: center; */
+}

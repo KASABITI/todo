@@ -1,45 +1,27 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders Todo 1`] = `
+exports[`renders without crashing 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div>
-        <header
-          class="header"
-        >
-          <h1
-            class="title"
-          >
-            TODO
-          </h1>
-          <p
-            class="avatar"
-          >
-            R
-          </p>
-        </header>
-      </div>
+      <button
+        class="button"
+      >
+        <p>
+          Ajouter
+        </p>
+      </button>
     </div>
   </body>,
   "container": <div>
-    <div>
-      <header
-        class="header"
-      >
-        <h1
-          class="title"
-        >
-          TODO
-        </h1>
-        <p
-          class="avatar"
-        >
-          R
-        </p>
-      </header>
-    </div>
+    <button
+      class="button"
+    >
+      <p>
+        Ajouter
+      </p>
+    </button>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

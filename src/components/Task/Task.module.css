@@ -7,9 +7,13 @@
     border-radius: 5px;
     justify-content: space-between;
     align-content: center;
-    /* box-shadow: 0 10px 6px -6px #777; */
+    letter-spacing: 0.5em;
 }
 .taskborder{
     box-shadow: 0 10px 6px -6px #777;
 }
 
+/* .title{
+    display: flex;
+    justify-content: center;
+} */

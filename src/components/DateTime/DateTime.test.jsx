@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
-import AddButton from './AddButton';
+import DateTime from './DateTime';
 
 test('renders without crashing', () => {
-  const component = render(<AddButton />);
+  const component = render(<DateTime />);
 
   expect(component).toMatchSnapshot()
 });

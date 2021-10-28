@@ -5,8 +5,8 @@ function Header() {
     return (
         <div>
             <header className={style.header}>
-                <h1 className={style.title}>Todo</h1>
-                <p className={style.avatar}>T</p>
+                <h1 className={style.title}>TODO</h1>
+                <p className={style.avatar}>R</p>
                 
             </header>
         </div>

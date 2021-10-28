@@ -1,14 +1,17 @@
 import "./App.css";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
-import Task from "./components/Task/Task";
+import TaskList from "./components/TaskList/TaskList";
 import AddButton from "./components/AddButton/AddButton";
+import DateTime from "./components/DateTime/DateTime";
+
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Task title={"Setup Storybook"} />
+      <DateTime/>
+      <TaskList/>
       <AddButton />
       <Footer />
     </div>

@@ -1,15 +1,17 @@
 .checkbox{
     width: 40px;
     height: 40px;
+    margin-top: 15px;
 }
 .checked{
     background-color: tomato;
 }
 .unchecked{
-    background-color: rgb(20, 145, 36);
+    background-color:  #4ca2cb;
 }
 
-.task_border{
+.taskborder{
     box-shadow: 0 10px 6px -6px #777;
     
 }
+

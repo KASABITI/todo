@@ -1,0 +1,19 @@
+.newtask{
+display: flex;
+width:80%;
+/* margin: 20px; */
+margin: 0 auto;
+margin-bottom: 10px;
+padding: 20px;
+border: 2px solid #7fe7f5;
+background: #DDFFEE;
+text-align: center;
+justify-content: space-around;
+}
+input[type="text" i] {
+    width: 30%;
+    text-align: center;
+    border: none;
+}
+
+

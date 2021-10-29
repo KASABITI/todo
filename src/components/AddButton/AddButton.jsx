@@ -3,8 +3,8 @@ import style from'./AddButton.module.css'
 
 const AddButton = () => {
     return (
-        <button className={style.button}>
-            <p >Ajouter</p>
+        <button  type="submit" className={style.button}>
+            <p>Add Task</p>
         </button>
     )
 }
